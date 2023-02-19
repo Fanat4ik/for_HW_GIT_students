@@ -77,7 +77,14 @@ Git - это консольная утилита, для отслеживани�
 
 ## <span style="color:#f97804"> git branch <span style="color:blue"> "имя ветки"</span></span>
 
+
 ## <span style="color:#f97804"> git checkout <span style="color:blue"> "имя ветки"</span></span>
+
+Команда *git checkout "имя ветки"* перемещает на вершину заданной ветки
+
+## <span style="color:#f97804"> git checkout -b <span style="color:blue"> "имя ветки"</span></span>
+
+Команда *git checkout -b "имя ветки"* создаёт ветку и сразу  перемещает на вершину созданой ветки
 
 ## <span style="color:#f97804"> git merge <span style="color:blue"> "имя ветки"</span></span>
 
