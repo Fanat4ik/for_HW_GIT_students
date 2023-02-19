@@ -87,5 +87,7 @@ Git - это консольная утилита, для отслеживани�
 
 ## <span style="color:#f97804"> git log --all --oneline</span>
 
+Команда *git log --all --oneline* показывает список commit всех веток в упрощённом виде.
+
 ## <span style="color:#f97804"> git log --all --oneline --graph --decorate</span>
 
