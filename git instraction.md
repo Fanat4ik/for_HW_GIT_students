@@ -76,3 +76,16 @@ Git - это консольная утилита, для отслеживани�
 ## <span style="color:#f97804"> git branch</span>
 
 ## <span style="color:#f97804"> git branch <span style="color:blue"> "имя ветки"</span></span>
+
+## <span style="color:#f97804"> git checkout <span style="color:blue"> "имя ветки"</span></span>
+
+## <span style="color:#f97804"> git merge <span style="color:blue"> "имя ветки"</span></span>
+
+## <span style="color:#f97804"> git branch -d <span style="color:blue"> "имя ветки"</span></span>
+
+## <span style="color:#f97804"> git branch -D <span style="color:blue"> "имя ветки"</span></span>
+
+## <span style="color:#f97804"> git log --all --oneline</span>
+
+## <span style="color:#f97804"> git log --all --oneline --graph --decorate</span>
+
