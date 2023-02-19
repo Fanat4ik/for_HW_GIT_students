@@ -75,7 +75,11 @@ Git - это консольная утилита, для отслеживани�
 
 ## <span style="color:#f97804"> git branch</span>
 
+Команда *<span style="color:#f97804"> git branch</span>* выводит список веток, а также указывает звёздочкой, в какой ветке мы сейчас находимся.
+
 ## <span style="color:#f97804"> git branch <span style="color:blue"> "имя ветки"</span></span>
+
+Команда *<span style="color:#f97804"> git branch <span style="color:blue"> "имя ветки"</span></span>* создаёт новую ветку с заданным именем.
 
 ## <span style="color:#f97804"> git checkout <span style="color:blue"> "имя ветки"</span></span>
 
@@ -87,7 +91,11 @@ Git - это консольная утилита, для отслеживани�
 
 ## <span style="color:#f97804"> git branch -d <span style="color:blue"> "имя ветки"</span></span>
 
+Команда *<span style="color:#f97804"> git branch -d <span style="color:blue"> "имя ветки"</span></span>* удаляет указанную ветку, если та была слита с другой.
+
 ## <span style="color:#f97804"> git branch -D <span style="color:blue"> "имя ветки"</span></span>
+
+Команда *<span style="color:#f97804"> git branch -D <span style="color:blue"> "имя ветки"</span></span>* удаляет указанную ветку, даже если та не была слита с другой.
 
 ## <span style="color:#f97804"> git log --all --oneline</span>
 
