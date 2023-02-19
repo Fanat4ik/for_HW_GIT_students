@@ -87,7 +87,11 @@ Git - это консольная утилита, для отслеживани�
 
 ## <span style="color:#f97804"> git branch -d <span style="color:blue"> "имя ветки"</span></span>
 
+Команда *<span style="color:#f97804"> git branch -d <span style="color:blue"> "имя ветки"</span></span>* удаляет указанную ветку, если та была слита с другой.
+
 ## <span style="color:#f97804"> git branch -D <span style="color:blue"> "имя ветки"</span></span>
+
+Команда *<span style="color:#f97804"> git branch -D <span style="color:blue"> "имя ветки"</span></span>* удаляет указанную ветку, даже если та не была слита с другой.
 
 ## <span style="color:#f97804"> git log --all --oneline</span>
 
